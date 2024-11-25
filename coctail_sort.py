@@ -1,4 +1,4 @@
-lst = [1,2,3,6,4,3,5,8,9,1]
+
 import random
 import unittest
 
